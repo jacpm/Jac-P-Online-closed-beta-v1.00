@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Jac-p-online</title>
+	<atom:link href="http://localhost/jac-p-online/feed/" rel="self" type="application/rss+xml" />
+	<link>http://localhost/jac-p-online</link>
+	<description>Het jac p college maar dan online</description>
+	<lastBuildDate>Tue, 11 Apr 2023 12:39:43 +0000</lastBuildDate>
+	<language>nl</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2</generator>
+	<item>
+		<title>Welkom bij Jac-P-Online</title>
+		<link>http://localhost/jac-p-online/welkom-bij-jac-p-online/</link>
+					<comments>http://localhost/jac-p-online/welkom-bij-jac-p-online/#respond</comments>
+		
+		<dc:creator><![CDATA[Melle]]></dc:creator>
+		<pubDate>Tue, 11 Apr 2023 12:39:38 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://localhost/jac-p-online/?p=70</guid>
+
+					<description><![CDATA[Door: MJK]]></description>
+										<content:encoded><![CDATA[
+<p>Door: MJK</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://localhost/jac-p-online/welkom-bij-jac-p-online/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
